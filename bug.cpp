@@ -1,0 +1,1 @@
+std::vector<bool> vec; // ... some operations ... if (vec.size() > 0) { // Check if the vector is not empty bool value = vec[0]; // Access the first element }
